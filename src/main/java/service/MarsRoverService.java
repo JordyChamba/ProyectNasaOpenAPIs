@@ -1,7 +1,7 @@
 package service;
 
 import com.google.gson.Gson;
-import models.ApiResponse;
+import responsesDtos.ApiResponse;
 import models.Photo;
 
 import java.io.BufferedReader;

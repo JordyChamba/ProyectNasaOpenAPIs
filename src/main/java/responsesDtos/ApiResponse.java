@@ -1,4 +1,6 @@
-package models;
+package responsesDtos;
+
+import models.Photo;
 
 import java.util.List;
 
